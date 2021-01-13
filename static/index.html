@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>OPA - Laboratorium D</title>
+    </head>
+    <body>
+        <div id="app">
+            <h2>Zawodnicy</h2>         
+            
+            <router-view>
+            </router-view>
+            
+            <br>
+            <router-link to="/lista">Lista</router-link>
+            <router-link to="/nowy">Nowy</router-link>
+
+        </div>
+        <script src="https://unpkg.com/vue"></script>
+        <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="./components/PlayerDelete.js"></script>
+        <script src="./components/PlayerList.js"></script>
+        <script src="./components/PlayerForm.js"></script>
+        <script src="./components/NewPlayerForm.js"></script>
+        <script src="./main.js"></script>
+    </body>
+</html>

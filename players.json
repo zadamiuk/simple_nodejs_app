@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Krzysztof",
+        "surname": "Szubarga",
+        "position": "PG",
+        "clubs": [
+            "Anwil Wloclawek",
+            "AZS Koszalin",
+            "Asseco Arka Gdynia"
+        ]
+    },
+    {
+        "name": "Adam",
+        "surname": "Hrycaniuk",
+        "position": "C",
+        "clubs": [
+            "Stelmet Zielona Gora",
+            "Asseco Arka Gdynia"
+        ]
+    },
+    {
+        "name": "Przemyslaw",
+        "surname": "Zolnierewicz",
+        "position": "SF",
+        "clubs": [
+            "Stal Ostrow Wielkopolski",
+            "Asseco Arka Gdynia"
+        ]
+    },
+    {
+        "name": "Bartlomiej",
+        "surname": "Woloszyn",
+        "position": "SF",
+        "clubs": [
+            "Anwil Wloclawek",
+            "MKS Dabrowa Gornicza",
+            "Asseco Arka Gdynia"
+        ]
+    },
+    {
+        "name": "Filip",
+        "surname": "Dylewicz",
+        "position": "PF",
+        "clubs": [
+            "Trefl Sopot",
+            "Asseco Arka Gdynia"
+        ]
+    }
+
+]
